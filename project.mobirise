@@ -990,7 +990,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "left",
             "showTitle": false,
             "showText": true,
             "showButtons": false
